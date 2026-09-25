@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.nrostb.cn/sitemap.xml
